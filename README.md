@@ -18,7 +18,7 @@ Platforms & Languages
 🤟 Acorn Academy 2020.10 ~ 2021.03 (completion)  
 
 
-![MinKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-kyu-Kim&show_icons=true&theme=highcontrast)  
+![MinKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliotelon&show_icons=true&theme=highcontrast)  
 
 📫 **How to reach me:**    
 * Elliotelon@gmail.com

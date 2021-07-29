@@ -21,5 +21,5 @@ Platforms & Languages
 ![MinKyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-kyu-Kim&show_icons=true&theme=highcontrast)  
 
 📫 **How to reach me:**    
-* ElliotKMK@gmail.com
+* Elliotelon@gmail.com
    

@@ -5,7 +5,7 @@
 🌱 **I’m currently Studying :**    
 * Android (MVVM, Retrofit2, Glide, Coroutine, Rx, Room, DataBinding...)   
 
-🤔 **I’m looking for a position in:**       
+🤔 **Position:**       
 * Android Developer 
 
 

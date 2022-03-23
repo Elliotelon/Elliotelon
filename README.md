@@ -3,17 +3,16 @@
 
 
 🌱 **I’m currently Studying :**    
-* Android (MVVM, Retrofit2, Glide, Coroutine, Rx, Room, DataBinding...)   
+* Front End (HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NEXT.JS)   
 
 🤔 **Position:**       
-* Android Developer 
+* Front End Developer 
 
 
 
 💪 **Skills**   
-Platforms & Languages
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-4885E2?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-E26C48?style=flat-square&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Frontend-3DDC84?style=flat-square&logo=Frontend&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-f5e642?style=flat-square&logo=Javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-42a7f5?style=flat-square&logo=React&logoColor=white"/> 
     
 🤟 Acorn Academy 2020.10 ~ 2021.03 (completion)  
 

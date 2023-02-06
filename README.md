@@ -3,17 +3,13 @@
 
 
 🌱 **I’m currently Studying :**    
-* Front End (HTML, CSS, JAVASCRIPT, REACT, TYPESCRIPT, NEXT.JS)   
+* Back End (Java, SpringBoot, JUnit5, REST API, MSA)   
 
 🤔 **Position:**       
-* Front End Developer 
+* Back End Developer 
 
-
-
-💪 **Skills**   
-
-<img src="https://img.shields.io/badge/Frontend-3DDC84?style=flat-square&logo=Frontend&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-f5e642?style=flat-square&logo=Javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-42a7f5?style=flat-square&logo=React&logoColor=white"/> 
     
+🤟 커넥틀리 프론트엔드 개발자 2022.04 ~ 2022.09  
 🤟 Acorn Academy 2020.10 ~ 2021.03 (completion)  
 
 

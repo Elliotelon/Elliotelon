@@ -3,11 +3,10 @@
 
 
 🌱 **I’m currently Studying :**    
-* Back End (Java, SpringBoot, JUnit5, REST API, MSA)   
+* IOS (UIKit, AutoLayout, RxSwift, UnitTest, MVC, MVVM)
 
 🤔 **Position:**       
-* Back End Developer 
-
+* IOS Developer
     
 🤟 커넥틀리 프론트엔드 개발자 2022.04 ~ 2022.09  
 🤟 Acorn Academy 2020.10 ~ 2021.03 (completion)  
